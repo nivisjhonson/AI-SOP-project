@@ -1,0 +1,7 @@
+streamlit
+huggingface_hub
+fastapi
+uvicorn
+pdfplumber
+python-docx
+python-multipart
